@@ -58,30 +58,6 @@ The trained model achieves high accuracy in determining whether a pair of MNIST 
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/siamese-mnist.git
-cd siamese-mnist
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run training
-```bash
-python train.py
-```
-
-### 4. Evaluate the model
-```bash
-python evaluate.py
-```
-
----
 
 ## 📚 References
 
